@@ -108,9 +108,6 @@
         /*font-size: 36px;*/
     }
 
-    
-
-
     #experience{
         background-color: white;
         text-align: center;
@@ -136,6 +133,7 @@
         padding-top: 180px;
         transition: 0.5s;
         font-size: 36px;
+        opacity: 0%;
     }
 
     #AboutMe:hover{
@@ -145,9 +143,7 @@
         opacity: 100%;
     }
 
-
-
-    #photo1{
+     #photo1{
         padding-bottom: 180px;
         display: block;
         margin-left: auto;

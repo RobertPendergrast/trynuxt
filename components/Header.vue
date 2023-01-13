@@ -21,11 +21,11 @@
     }
 
     #About{
-        
+        transition: 0.5s;
     }
 
-    #Projects{
-        
+    #projects{
+        transition: 0.5s;
     }
     
     #About:hover{
@@ -40,6 +40,7 @@
 
     #contact{
         padding-right: 60px;
+        transition: 0.5s;
     }
     #contact:hover {
         color: #134a97;

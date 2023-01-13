@@ -1,7 +1,11 @@
 <template>
+    
+    
     <div id="head" class="links">
+         <title>RobertPendergrast</title> 
+         <link rel="icon" type="image/x-icon" src="Logo2.jpg">
         <div class="column">
-            <a href="#head"><img src="Logo.jpg" class="headder"></a>
+            <a href="#head"><img src="Logo2.jpg" class="headder"></a>
         </div>
         <div class="column">
             <p class="header"> <a id="About" href="#AboutMe">About</a> <a id="projects" href="#experience">Projects</a> <a id="contact" href="#footer">Contact</a> </p>

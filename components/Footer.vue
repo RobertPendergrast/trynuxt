@@ -13,6 +13,7 @@
         padding-top: 30px;
         padding-bottom: 30px;
         transition: 0.5s;
+        font-family: Ubuntu;
     }
 
     

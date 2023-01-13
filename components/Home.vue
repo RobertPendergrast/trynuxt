@@ -98,13 +98,13 @@
     .box{
         padding: 30% 20%;
         font-size: 32px;
-        transition: 0.5s;
+        transition: 0.1s;
         size: fixed;
     }
 
     .box:hover{
-        box-shadow: inset 0 0 0 250px rgba(4,16,32,0.4);
-        transition: 0.5s;
+        box-shadow: inset 0 0 0 250px rgba(4,16,32,0.2);
+        transition: 0.01s;
         /*font-size: 36px;*/
     }
 

@@ -133,14 +133,12 @@
         padding-top: 180px;
         transition: 0.5s;
         font-size: 36px;
-        opacity: 0%;
     }
 
     #AboutMe:hover{
         border-radius: 10%;
         transition: 0.5s;
         font-size: 42px;
-        opacity: 100%;
     }
 
      #photo1{

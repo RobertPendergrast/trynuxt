@@ -2,7 +2,7 @@
     <div id="page1">   
         <h1 id="title" class="main">Hi! I'm Robbie</h1>
         <p id="bio" class="back">Student, Designer & Developer</p>
-        <img id="photo1" src="redpanda.jpg" alr="to be changed">
+        <img id="photo1" src="profil.jpg" alr="to be changed">
         <div id="AboutMe" class="fadeIn">
             <h1 id="Big">About Me</h1>
             <p class="whitetext">I'm currently a bachelors student at Columbia University in the City of New York studying computer science and applied mathematics.I have a great interest in software development, and intend on pursing studies in artificial intelligence!</p>
@@ -103,8 +103,8 @@
     }
 
     .box:hover{
-        box-shadow: inset 0 0 0 250px rgba(4,16,32,0.2);
-        transition: 0.01s;
+        box-shadow: inset 0 0 0 250px rgba(4,16,32,0.4);
+        transition: 0.5s;
         /*font-size: 36px;*/
     }
 
@@ -147,7 +147,18 @@
         margin-left: auto;
         margin-right: auto;
         width: 25%;
-        height: 25%
+        transition: 0.5s;
+        height: 25%;
+    }
+
+    #photo1:hover{
+        padding-bottom: 180px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 27%;
+        height: 27%;
+        transition: 0.5s;
         
     }
 

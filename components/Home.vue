@@ -170,7 +170,7 @@
     }
 
     #page1{
-        font-family:'Ubuntu', sans-serif;
+        font-family:'Ubuntu', Arial, sans-serif;
         background-color: white;
         width: 100%;
     }

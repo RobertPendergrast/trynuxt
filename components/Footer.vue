@@ -13,13 +13,12 @@
         padding-top: 30px;
         padding-bottom: 30px;
         transition: 0.5s;
-        font-family: Ubuntu;
+        font-family: 'Ubuntu' Arial, sans-serif;
     }
 
     
     #footer{
         text-align: center;
-        
         font-family: Ubuntu;
         color: white;
         font-size: 28px;

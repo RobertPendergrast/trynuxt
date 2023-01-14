@@ -3,7 +3,7 @@
     
     <div id="head" class="links">
         <div class="column">
-            <a href="#head"><img src="Logo2.jpg" class="headder"></a>
+            <a href="#head"><img src="logo2.jpg" class="headder"></a>
         </div>
         <div class="column">
             <p class="header"> <a id="About" href="#AboutMe">About</a> <a id="projects" href="#experience">Projects</a> <a id="contact" href="#footer">Contact</a> </p>

@@ -2,8 +2,6 @@
     
     
     <div id="head" class="links">
-         <title>RobertPendergrast</title> 
-         <link rel="icon" type="image/x-icon" src="Logo2.jpg">
         <div class="column">
             <a href="#head"><img src="Logo2.jpg" class="headder"></a>
         </div>
@@ -75,8 +73,8 @@
         color: #2BAEFF;
         word-spacing: 20px;
         padding-top: 20px;
-        height: 8%;
-        width: 8%;
+        height: 6%;
+        width: 6%;
         padding-left: 60px;
     }
 

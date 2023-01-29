@@ -1,9 +1,8 @@
 <template>
-    
-    
     <div id="head" class="links">
         <div class="column">
-            <a href="#head"><img src="logo2.jpg" class="headder"></a>
+            
+            <a href="#home"><img src="logo2.jpg" class="headder"></a>
         </div>
         <div class="column">
             <p class="header"> <a id="About" href="#AboutMe">About</a> <a id="projects" href="#experience">Projects</a> <a id="contact" href="#footer">Contact</a> </p>
@@ -14,7 +13,6 @@
 <style>
 
     #logo{
-        padding-left:60px;
         text-align: left;
     }
 
@@ -76,11 +74,13 @@
         height: 6%;
         width: 6%;
         padding-left: 60px;
+        padding-bottom: 12px;
     }
 
     .column{
         float: left;
         width: 50%;
     }
+
 
 </style>

@@ -1,10 +1,10 @@
 <template>
   
   <div>
-    <title>RobbiePendergrast</title>
+    <title>My Web Development Experience</title>
     <link rel="icon" type="image/x-icon" href="favicon.jpg">
     <Header/>
-    <Home/>
+    <WebDev/>
     <Footer/>
   </div>
   
@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'WebDevPage'
 }
 </script>
 
@@ -21,3 +21,4 @@ export default {
     margin:0;
   }
 </style>
+  

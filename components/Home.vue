@@ -7,18 +7,43 @@
             <h1 id="Big">About Me</h1>
             <p class="whitetext">I'm currently a bachelors student at Columbia University in the City of New York studying computer science and applied mathematics.I have a great interest in software development, and intend on pursing studies in artificial intelligence!</p>
             
+            <p class="whitetext"></p>
+            <p class="whitetext">One of the things I enjoy outside of school and work is music. I have been playing the trumpet for over 10 years! I also enjoy running, and ran the hurdles for my high school track team. Other than that, I spend a lot of my time outside hiking - one of my life goals is to visit every national park!</p>
+            <p class="whitetext"></p>
+           
+            
             <div id="experience">
                 <h1 id="ex">My Experience</h1>
-                <p class="pad">Click on the boxes below to check out some of the things I've made!</p>
+                <p class="pad">Here are some of the things that I have experience with!</p>
                 <div class="column">
-                        <p id="ad" class="box">Affinity Designer</p>
-                        <p id="Cs" class="box">CSS</p>
-                        <p id="j" class="box">Java</p>
+                    
+                        
+                        <div id="ad" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div> 
+                        <div id="Cs" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div>
+                        <div id="j" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div>
+                        
+                        
+                        
                 </div>
                 <div class="column">
-                        <p id="ht" class="box">HTML</p>
-                        <p id="gd" class="box">Game Design</p>
-                        <p id="JS" class="box">JavaScript</p>
+            
+                        
+                        <div id="ht" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div>
+                        <div id="gd" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div>
+                        <div id="JS" class="box">
+                            <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
+                        </div>
+                        
                 </div>
             </div>
             <div>
@@ -37,6 +62,13 @@
 
     
     
+
+    
+
+    .links{
+        text-decoration: none;
+        color: white;
+    }
     
     .pad{
         padding-bottom: 50px;
@@ -100,6 +132,8 @@
         font-size: 32px;
         transition: 0.1s;
         size: fixed;
+        position: relative;
+        text-decoration: none;
     }
 
     .box:hover{
@@ -126,6 +160,7 @@
     #Big{
         text-align: center;
         color: white;
+        padding-bottom: 50px;
     }
 
     #AboutMe{
@@ -173,6 +208,7 @@
         font-family:'Ubuntu', Arial, sans-serif;
         background-color: white;
         width: 100%;
+        scroll-behavior: smooth;
     }
 
     #intro{
@@ -196,13 +232,13 @@
     /* Classes */
 
     .whitetext{
-        text-align: center;
+        text-align: justify;
         color: white;
-        padding: 80px 80px;
         font-size: 24px;
         padding-right:200px;
         padding-left:200px;
-        padding-bottom: 180px;
+        padding-bottom: 40px;
+        text-justify: newspaper;
         
     }
 

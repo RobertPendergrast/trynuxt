@@ -10,7 +10,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
     
     #Contact{
-        padding-top: 30px;
+        padding-top: 50px;
         padding-bottom: 30px;
         transition: 0.5s;
         font-family: 'Ubuntu' Arial, sans-serif;
@@ -32,7 +32,6 @@
         font-size: 32px;
         height: 120%;
         transition: 0.5s;
-        border-radius: 5%;
         
     }
 

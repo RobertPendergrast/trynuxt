@@ -19,12 +19,15 @@
                     
                         
                         <div id="ad" class="box">
+                            <p>Graphic Design</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div> 
                         <div id="Cs" class="box">
+                            <p>CSS</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div>
                         <div id="j" class="box">
+                            <p>Java</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div>
                         
@@ -35,12 +38,15 @@
             
                         
                         <div id="ht" class="box">
+                            <p>HMTL</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div>
                         <div id="gd" class="box">
+                            <p>Game Design</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div>
                         <div id="JS" class="box">
+                            <p>JavaScript</p>
                             <!--<NuxtLink class="links" to="/WebDev">Graphic Design</NuxtLink> -->
                         </div>
                         
@@ -73,6 +79,7 @@
     .pad{
         padding-bottom: 50px;
     }
+
     #ex{
         padding-bottom: 120px;
         
@@ -148,7 +155,7 @@
         font-size: 24px;
         padding-top: 100px;
         transition: 0.5s;
-        padding-bottom: 1300px;
+        padding-bottom: 1450px;
     }
 
 
@@ -209,6 +216,7 @@
         background-color: white;
         width: 100%;
         scroll-behavior: smooth;
+        padding-bottom: 50px;
     }
 
     #intro{
@@ -237,7 +245,7 @@
         font-size: 24px;
         padding-right:200px;
         padding-left:200px;
-        padding-bottom: 40px;
+        padding-bottom: 30px;
         text-justify: newspaper;
         
     }
@@ -246,6 +254,8 @@
         background-color: white;
         float: left;
         width: 50%;
+       
+        
     }
 
     
